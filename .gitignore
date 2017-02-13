@@ -6,8 +6,9 @@
 */DerivedCacheData
 */Intermediate
 */Saved
-BuildingEscape/Content/StarterContent/
-BuildingEscape/Content/DownloadedContent/
+BuildingEscape/Content/StarterContent/Textures
+BuildingEscape/Content/StarterContent/HDRI
+BuildingEscape/Content/DownloadedContent/Textures
 
 ######################
 # VS Generated Files #
@@ -16,3 +17,4 @@ BuildingEscape/Content/DownloadedContent/
 *.VC.db
 *.VC.opendb
 *.db
+*.suo
